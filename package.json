@@ -1,0 +1,19 @@
+{
+  "name": "commit.africa",
+  "private": true,
+  "npmClient": "yarn",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap --use-workspaces",
+    "start:ui": "yarn workspace @commit-africa/ui start",
+    "build:ui": "yarn workspace @commit-africa/ui build",
+    "start:webapp": "yarn workspace @commit-africa/webapp start",
+    "build:webapp": "yarn workspace @commit-africa/webapp build"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}

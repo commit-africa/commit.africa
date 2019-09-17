@@ -1,0 +1,20 @@
+{
+  "exclude": ["node_modules", ".cache", ".vscode", ".history", ".blueprint"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "jsx": "preserve",
+    "noImplicitAny": false,
+    "noErrorTruncation": true,
+    "isolatedModules": false
+  }
+}
