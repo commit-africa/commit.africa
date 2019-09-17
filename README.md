@@ -51,3 +51,10 @@ This is a blurb explaining what this project is about and what types of contribu
 2. Make a [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request) via the [Github](https://github.com) dashboard to the `master` or feature branch.
 3. The responsible core-contributor (as per the repo) will automatically be tagged in all pull requests via the `docs/CODEOWNERS` file.
 4. Once your code has been accepted and merged into `master` [Netlify](https://www.netlify.com/) will automatically deploy the changes to [https://commit.africa](https://commit.africa).
+
+## Roadmap
+
+### 0.0.2
+
+* Adds submission page
+  * 
