@@ -56,5 +56,9 @@ This is a blurb explaining what this project is about and what types of contribu
 
 ### 0.0.2
 
-* Adds submission page
-  * 
+* Adds `https//commit.africa/submit` page
+  * Integrate with [Netlify Forms](https://www.netlify.com/docs/form-handling/).
+  * Integrate with [Territories](https://github.com/schalkventer/territories) to create predictable/filterable geographic meta data for projects.
+  * Create submission page UI.
+* Adds `https//commit.africa/browse` page.
+  * Determine required steps.
