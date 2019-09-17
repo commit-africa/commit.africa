@@ -2,15 +2,11 @@
 
 [![](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/commit-africa-community/community) [![](https://img.shields.io/badge/slack-@zatech/%23tech%E2%80%92for%E2%80%92good-purple.svg?logo=slack)](https://zatech.github.io) [![](https://img.shields.io/badge/slack-@zatech/%23tech%E2%80%92for%E2%80%92good-purple.svg?logo=slack)](https://docs.google.com/forms/u/1/d/e/1FAIpQLScBPmaH71EuV3HTw-4KSB6x-Xs-6Euf3baSfsMt1wi8n9adkA/viewform)  [![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![](https://img.shields.io/badge/License-CC%20BY‒SA‒4%2E0-yellow.svg)](https://creativecommons.org/licenses/by-sa/4.0/) 
 
-
-
-[![](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 ## Discussion
 
 Have any question or suggestions, please reach out to the core team on Gitter at [commit-africa/community](https://gitter.im/commit-africa-community/community).
 
-Alternatively, if you want to get involved in the larger discussion around usage of technology for social good in Africa join us on Slack (on either the [Code for Africa](https://docs.google.com/forms/u/1/d/e/1FAIpQLScBPmaH71EuV3HTw-4KSB6x-Xs-6Euf3baSfsMt1wi8n9adkA/viewform) or ZA Tech workspaces) in the `#tech-for-good` channel.
+Alternatively, if you want to get involved in the larger discussion around usage of technology for social good in Africa join us on Slack (on either the [Code for Africa](https://docs.google.com/forms/u/1/d/e/1FAIpQLScBPmaH71EuV3HTw-4KSB6x-Xs-6Euf3baSfsMt1wi8n9adkA/viewform) or [ZA Tech](https://zatech.github.io) workspaces) in the `#tech-for-good` channel.
 
 ## Licensing
 
